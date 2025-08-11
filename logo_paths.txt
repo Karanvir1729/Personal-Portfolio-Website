@@ -1,0 +1,49 @@
+/home/ubuntu/upload/search_images/cdXVYjoBYYHL.png # KPMG
+/home/ubuntu/upload/search_images/8EPR0bNM967k.png # IPPINKA
+/home/ubuntu/upload/search_images/rjCU13KOspje.png # University of Toronto
+/home/ubuntu/upload/search_images/YHXII6W1OQpJ.png # Node.js
+/home/ubuntu/upload/search_images/DM79xXWGK1Ct.png # Flask
+/home/ubuntu/upload/search_images/1Wry6BwVU5wW.png # Django
+/home/ubuntu/upload/search_images/8OQaFIqgHcoY.png # TensorFlow
+/home/ubuntu/upload/search_images/7u4uSjJ4UOyd.png # PyTorch
+/home/ubuntu/upload/search_images/onejaPZaVetD.png # scikit-learn
+/home/ubuntu/upload/search_images/enuOpZR0gTy8.png # pandas
+/home/ubuntu/upload/search_images/2odXktjHTUWm.png # NumPy
+/home/ubuntu/upload/search_images/Gv9mLtP7iBAM.png # Selenium
+/home/ubuntu/upload/search_images/mTDGqxkYmCH1.png # JUnit
+/home/ubuntu/upload/search_images/WLr4So8ZZ6IW.png # LaTeX
+/home/ubuntu/upload/search_images/pNHhbo8Isuht.png # Pyomo
+/home/ubuntu/upload/search_images/czkjcnVpzPLT.png # SCIP
+/home/ubuntu/upload/search_images/2vqNU1kcMIeZ.png # CPLEX
+/home/ubuntu/upload/search_images/CG1pi6r7oRPP.png # NGINX
+/home/ubuntu/upload/search_images/Q97radICVDRa.png # DigitalOcean
+/home/ubuntu/upload/search_images/fIKZ4omW9bOQ.png # MongoDB
+/home/ubuntu/upload/search_images/6GoPMkiF1SNW.jpg # Conda
+/home/ubuntu/upload/search_images/nqVdK6zDMzrY.png # Ubuntu
+/home/ubuntu/upload/search_images/qvbjCQdMbZH8.png # WordPress
+/home/ubuntu/upload/search_images/XOzf4mbB0CqV.png # Git
+/home/ubuntu/upload/search_images/YgqD931G4vvF.png # Bitbucket
+/home/ubuntu/upload/search_images/Zv0kWrXWPR1b.png # GitHub
+/home/ubuntu/upload/search_images/EqkK2AiXCkDE.png # GitHub Actions
+/home/ubuntu/upload/search_images/fbgCNaR7IIJi.jpg # CI/CD
+/home/ubuntu/upload/search_images/Kl8TAIzw0o7i.png # JSON
+/home/ubuntu/upload/search_images/SotzNeBv6PPb.jpg # REST
+/home/ubuntu/upload/search_images/hWSOW1nACwYQ.png # Shell scripting
+/home/ubuntu/upload/search_images/WJdq4aUOGzlr.png # AWS
+/home/ubuntu/upload/search_images/uHjEIOFMNorq.png # Azure
+/home/ubuntu/upload/search_images/bIEVVKBRjBXm.png # OpenAI API
+/home/ubuntu/upload/search_images/cmwanl0Hf7nK.png # Google Apps Script
+/home/ubuntu/upload/search_images/D7wD76mCxVwd.png # Amazon Rainforest API
+/home/ubuntu/upload/search_images/NPMPzgsSba04.png # CAPTCHA
+/home/ubuntu/upload/search_images/b6DokbfJxDHs.png # SQLmap
+/home/ubuntu/upload/search_images/Dgv3Hg7fqk8V.png # Ghidra
+/home/ubuntu/upload/search_images/HuEGbeWZt6O1.jpg # Burp Suite
+/home/ubuntu/upload/search_images/pMmjH2FsMNJz.png # Wireshark
+/home/ubuntu/upload/search_images/xKF9iBlkiaw9.png # WPScan
+/home/ubuntu/upload/search_images/PRHtAjIX5B8s.jpg # Cohere AI
+/home/ubuntu/upload/search_images/daTxIixyunzd.png # Flutter
+/home/ubuntu/upload/search_images/uND0Q6djzyCA.png # GCP
+/home/ubuntu/upload/search_images/rWAKrITSTmmu.png # UiPath
+/home/ubuntu/upload/search_images/MuShVDOWIQ2s.png # DAMA
+
+

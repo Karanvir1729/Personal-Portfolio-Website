@@ -1,0 +1,109 @@
+Karanvir (Karan) Khanna
+prokaranvir@gmail.com | +1 (416) 347-3761
+github.com/Karanvir1729 | karan-portfolio.vercel.app | linkedin.com/in/karan-khanna-b7013b24b
+Education
+University of Toronto Toronto, ON
+Bachelor of Science in Computer Science, Minor in Math + Co-op (PEY) Sep. 2021 – Apr. 2026
+– Relevant Coursework: Operating Systems, AI, Functional Programming, Unix Tools, Cybersecurity, Algorithm
+Design, Databases, Software Design, Statistics
+Technical Skills
+Languages: Java, Python, C/C++, JavaScript, TypeScript, Bash, SQL, PHP, Assembly (x86)
+Frameworks & Tools: Node.js, Flask, Django, TensorFlow, PyTorch, scikit-learn, pandas, NumPy,
+Selenium, JUnit, LaTeX, Pyomo, SCIP, CPLEX
+Optimization: MINLP, nonlinear solvers, multistage model design
+Infrastructure: NGINX, DigitalOcean, MongoDB, Conda, Ubuntu, WordPress
+DevOps: Git, Bitbucket, GitHub, GitHub Actions, CI/CD, JSON, REST, Shell scripting
+Cloud & APIs: AWS, Azure, OpenAI API, Google Apps Script, Amazon Rainforest API
+Security: CAPTCHA, SQLmap, Ghidra, Burp Suite, Wireshark, WPScan, cryptographic tools
+Experience
+AI Intern — Data Management and Governance May 2023 – Oct. 2023
+KPMG LLP Toronto, ON
+– Developed interactive AI prototypes using ChatGPT to streamline internal data governance workflows and
+knowledge access
+– Designed end-to-end prototypes with mock UIs, automation algorithms, and data pipelines to support inventory
+management scenarios
+– Applied Naive Bayes, dynamic programming, and greedy heuristics to optimize components of internal tooling and
+process flows
+– Assisted in platform evaluations for enterprise data catalogs, comparing Informatica, Microsoft Purview, and
+Collibra
+– Outlined long-term cloud architecture strategies leveraging AWS and Azure for scalable data management
+– Authored KPMG’s internal Data Governance and Management Playbook, defining best practices, tooling
+standards, and architectural guidelines across business units
+E-commerce Software Developer June 2024 – Present
+IPPINKA Toronto, ON
+– Lead developer at a curated e-commerce brand with 5,000+ Amazon listings, bridging independent designers and
+global buyers
+– Designed and maintained backend infrastructure using Node.js, TypeScript, and Google Apps Script to automate
+listings, POs, inventory, and reporting
+– Built a metadata-aware caching system for Google Sheets, reducing API load and improving latency across
+distributed automation flows
+– Developed automated pipelines for FBA prep, Flodesk email marketing integration, and cross-sheet data
+synchronization
+– Launched a demand forecasting pipeline using 10+ years of sales data; incorporated seasonality, holidays, and
+behavioral heuristics
+– Managed a MongoDB database of historical sales and shipment records to support forecasting, PO generation, and
+product tracking
+– Led full-stack automation of the PO system:
+∗ Engineered nonlinear MINLP solver logic using Pyomo, SCIP, and CPLEX to model MOQ, bundling, and
+ratio constraints
+∗ Built resilient backend with exponential backoff and solver orchestration via Conda and Node.js subprocesses
+
+
+--- PAGE 1 ---
+
+∗ Scheduled automated daily PO generation to forecast and initiate orders with minimal manual oversight
+∗ Developed a distribution handler to detect and reallocate inventory when incorrect listings or quantities were
+ordered
+∗ Created supplier-facing web tools for box tracking and automated invoice upload
+– Optimized post-arrival bundling with a CPLEX-based reallocation model to reduce variance between projected and
+real-time demand
+– Automated Amazon Box Content uploads and engineered kitting workflows to streamline bundle fulfillment
+– Integrated Rainforest API to monitor product reviews and flag listings based on velocity and sentiment trends
+– Hardened internal tools with CAPTCHA and other access control measures to mitigate bot threats
+– Spearheaded hiring for 3 developers (junior, mid-level, senior); led onboarding with personalized documentation
+and technical mentorship
+– Maintained critical backend services and authored internal dev documentation covering logic, deployment, and
+workflows
+– Migrated project management from Pivotal Tracker to Jira, including schema translation and team-wide training
+– Deployed and monitored services on DigitalOcean using NGINX, custom dashboards, and internal performance
+metrics
+Projects
+Nettoyer (UofT Hacks Runner-up) | Cohere AI, Python, Flutter
+∗ Built a decentralization-focused content filtering platform with real-time toxicity detection using Cohere
+∗ Automated YouTube engagement actions (e.g., liking) to support user mental wellness tags and safe themes
+∗ Delivered production-ready frontend in under 4 hours during hackathon sprint
+Automated Purchase Order System | Node.js, TypeScript, Python, Pyomo, GCP, GAS, SCIP, CPLEX
+∗ Built a hybrid Node.js + Python system to automate supplier purchase orders across 5,000+ SKUs, integrating
+forecast logic, constraint modeling, and solver execution
+∗ Modeled nonlinear MINLP constraints using Pyomo and solved with SCIP and CPLEX, supporting MOQ
+thresholds, bundle rules, and demand balancing
+∗ Implemented solver orchestration via Google Apps Script and Conda subprocess environments, with exponential
+backoff and retry logic for numerical stability
+∗ Developed spreadsheet-driven UI for live PO edits, cache-backed data refresh, and PDF invoice generation with
+push-to-email integration
+Essay Research Bot (Deer Hacks Winner) | Python, Flask, UiPath
+∗ Built an automated essay research tool using Google APIs and web scraping
+∗ Integrated UiPath to handle repetitive research workflows and generate citations
+∗ Project link: definition-finder on Devpost
+Research
+Matroid Theory Research | University of Toronto May 2023 – Sep. 2023
+∗ Studied volume estimation of matroid polytopes and their polar duals using combinatorial and geometric
+techniques
+∗ Adapted Hepp bounds and T-invariants to derive structural volume identities; validated conjectures in Sage using
+rank-jump analysis
+∗ Authored original research under Prof. Ahmed Ashraf on polytope duality and symbolic methods in matroid
+theory
+Certifications and Awards
+Certified Data Management Professional (CDMP) Aug 2023
+Data Management Association (DAMA)
+∗ Scored in the top 10% of 4,562+ professionals globally on the CDMP foundation exam
+Dean’s List 2021 – Present
+University of Toronto
+∗ GPA consistently above 3.5; top 10% of the faculty cohort
+Deer Hacks Winner Apr 2022
+University of Toronto
+∗ Built an AI-powered academic research assistant and won best overall project
+
+
+--- PAGE 2 ---
+
